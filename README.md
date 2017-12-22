@@ -1,3 +1,3 @@
 
 # hello-world
-Hi! I am brian. 
+Hello. I am Brian Park. 
